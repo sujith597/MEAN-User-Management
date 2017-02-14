@@ -2,4 +2,4 @@
 
 This Application deals with User login, Logout, Session Management and Token Managment.
 
-Planning to Develop application in MEAN Stack.
+Planning to Develop application in MEAN Stack..
